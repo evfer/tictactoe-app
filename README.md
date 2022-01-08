@@ -1,2 +1,2 @@
-# tictactoe-repo
+# tictactoe-app
 A small tic-tac-toe game that puts the player against an unbeatable AI.
